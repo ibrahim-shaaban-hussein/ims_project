@@ -1,0 +1,14 @@
+# Python/Django
+*.pyc
+__pycache__/
+*.sqlite3
+/env/
+/venv/
+.DS_Store
+/staticfiles/
+/media/
+
+# Editor specific
+.vscode/
+.idea/
+
